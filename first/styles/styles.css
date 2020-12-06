@@ -1,0 +1,20 @@
+.scale_rate {
+    width: 50px;
+    background-color: rgb(21, 255, 0);
+}
+
+.diagram_container {
+    border: 1px solid black;
+    width: 50px;
+    height: 108px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.diagram_persent {
+    width: 50px;
+    background-color: rgb(248, 4, 4);
+    display: flex;
+    align-items: flex-end;
+    transition-duration: 0.7s;
+}
